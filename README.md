@@ -28,5 +28,8 @@ The primary aim of this dashboard is to address three main KPIs: Total Sales Ana
 
 
 ![Coffee Shop Sales](https://github.com/D19s/Coffee_Shop_Sales_Analysis/assets/39941517/817428a6-2347-4216-a363-96a5cfe0dc9d)
+![Coffee Shop Sales2](https://github.com/D19s/Coffee_Shop_Sales_Analysis/assets/39941517/4ef152c9-c8b8-4029-9e92-b31185213839)
+
+
 
 
