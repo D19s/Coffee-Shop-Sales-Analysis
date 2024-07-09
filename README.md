@@ -2,7 +2,8 @@
 
 
 
-Overview:
+##Overview:
+
 The project's purpose is to visually represent the sales performance of a coffee shop spanning from January 2023 to May 2023. It will provide insights into important metrics, including total sales, total orders, total quantity sold, and detailed breakdowns by dimensions such as day, product category, product type, store location, weekday versus weekend sales, and sales by hour. This dashboard was created using advanced DAX functions and confirmed with complex SQL queries to ensure accurate data analysis and reporting.
 
 Objectives:
