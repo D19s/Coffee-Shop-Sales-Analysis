@@ -1,4 +1,4 @@
-# Coffee_Shop_Sales_Analysis
+# Coffee Shop Sales Analysis
 
 
 
@@ -26,6 +26,7 @@ The primary aim of this dashboard is to address three main KPIs: Total Sales Ana
 4. Considering the drop in sales during the afternoon, introducing a lunch deal and evening light snack option could be beneficial.
 5. Sales are higher than average in the mid-week of the month and lower during other weeks. Loyalty cards could help boost sales during these periods.
 
+Special Thanks to Swapnjeet S (https://topmate.io/data_tutorials)
 
 ![Coffee Shop Sales](https://github.com/D19s/Coffee_Shop_Sales_Analysis/assets/39941517/817428a6-2347-4216-a363-96a5cfe0dc9d)
 ![Coffee Shop Sales2](https://github.com/D19s/Coffee_Shop_Sales_Analysis/assets/39941517/4ef152c9-c8b8-4029-9e92-b31185213839)
