@@ -25,3 +25,8 @@ The primary aim of this dashboard is to address three main KPIs: Total Sales Ana
 3. Barista Espresso, Brewed Chai Tea, and Hot Chocolate consistently rank as the top 3 best-selling products throughout the month and day.
 4. Considering the drop in sales during the afternoon, introducing a lunch deal and evening light snack option could be beneficial.
 5. Sales are higher than average in the mid-week of the month and lower during other weeks. Loyalty cards could help boost sales during these periods.
+
+
+![Coffee Shop Sales](https://github.com/D19s/Coffee_Shop_Sales_Analysis/assets/39941517/817428a6-2347-4216-a363-96a5cfe0dc9d)
+
+
